@@ -43,6 +43,10 @@ Full stack developer with 9+ years of experience building Android, iOS, web, des
 | [RapidTab Surf Premium Site Application System](case-studies/19-rapidtab-surf-premium-site-application-system.md) | Quality control for a premium program. |
 | [CampRadar: Dynamic Camping Packing List Web App](case-studies/21-campradar-dynamic-camping-packing-list-web-app.md) | From an Excel gear list to a one-click packing list. |
 | [Social Circle Agency Portal & Contact Funnel](case-studies/23-social-circle-agency-portal-contact-funnel.md) | Every lead routed instantly. |
+| [Staffing Agency Website & Live Job Board Web App](case-studies/25-staffing-agency-website-live-job-board-web-app.md) | A job board with 13,000+ live jobs, ready in 2 weeks. |
+| [WordPress Surplus Funds Site & Claim Search Portal](case-studies/26-wordpress-surplus-funds-site-claim-search-portal.md) | Find your money and file a claim in under a minute. |
+| [N42 Technology: ERP Consulting Website Update](case-studies/27-n42-technology-erp-consulting-website-update.md) | Quality over speed, and nothing goes live until the client approves. |
+| [Membership & Investor Portal Web App (WordPress)](case-studies/28-membership-investor-portal-web-app-wordpress.md) | Memberships, donations and a private investor vault, on existing WordPress hosting. |
 
 ## Zoom apps
 
